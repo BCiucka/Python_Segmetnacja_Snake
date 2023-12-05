@@ -36,6 +36,7 @@ Uruchom aplikację, korzystając z polecenia:
 
 ```bash
 python main.py
+
 ## Autor
 
 - Bartosz Ciućka [@BCiucka](https://github.com/BCiucka)
