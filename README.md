@@ -1,7 +1,8 @@
 # Python Segmentation Snake
 
-![obraz](https://github.com/BCiucka/Python_Segmetnacja_Snake/assets/128985044/caaec86d-5c4c-4d54-a9b6-e0b765f2ebeb)
-
+<p align="center">
+  <img src="https://github.com/BCiucka/Python_Segmetnacja_Snake/assets/128985044/caaec86d-5c4c-4d54-a9b6-e0b765f2ebeb" alt="Segmentation Snake Logo">
+</p>
 
 ## Opis
 
@@ -35,3 +36,10 @@ Uruchom aplikację, korzystając z polecenia:
 
 ```bash
 python main.py
+## Autor
+
+- Bartosz Ciućka [@BCiucka](https://github.com/BCiucka)
+
+## Licencja
+
+Ten projekt jest dostępny na licencji MIT - zobacz plik [LICENSE.md](LICENSE.md) dla szczegółów.
