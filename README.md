@@ -30,12 +30,6 @@ Projekt Python Segmentation Snake to aplikacja do segmentacji obrazów medycznyc
 2. Przejdź do katalogu projektu: `cd Python_Segmetnacja_Snake`
 3. Zainstaluj zależności: `pip install -r requirements.txt`
 
-## Użycie
-
-Uruchom aplikację, korzystając z polecenia:
-
-```bash
-python main.py
 
 ## Autor
 
